@@ -1,0 +1,1366 @@
+{
+  "datos": [
+    {
+      "Municipio": "",
+      "Código Postal": "",
+      "Provincia": "",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Sandino",
+      "Código Postal": "24150",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Mantua",
+      "Código Postal": "22200",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Minas de Matahambre",
+      "Código Postal": "22300",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Viñales",
+      "Código Postal": "22400",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Consolación del Norte (La Palma)",
+      "Código Postal": "22600",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Bahía Honda",
+      "Código Postal": "22600",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Candelaria",
+      "Código Postal": "22700",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Cristóbal",
+      "Código Postal": "22800",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Los Palacios",
+      "Código Postal": "22900",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Consolación del Sur",
+      "Código Postal": "23000",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Pinar del Rio",
+      "Código Postal": "20100",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Luis",
+      "Código Postal": "23100",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Juan y Martínez",
+      "Código Postal": "23200",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Guane",
+      "Código Postal": "23300",
+      "Provincia": "Pinar del Río",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Playa",
+      "Código Postal": "11300",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Plaza de la Revolución",
+      "Código Postal": "10400",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Centro Habana",
+      "Código Postal": "10200",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "La Habana Vieja",
+      "Código Postal": "10100",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Regla",
+      "Código Postal": "11200",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "La Habana del Este",
+      "Código Postal": "10900",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Guanabacoa",
+      "Código Postal": "11100",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Miguel del Padrón",
+      "Código Postal": "11000",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "10 de Octubre",
+      "Código Postal": "10700",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cerro",
+      "Código Postal": "10600",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Marianao",
+      "Código Postal": "11500",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "La Lisa",
+      "Código Postal": "17100",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Boyeros",
+      "Código Postal": "10800",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Arroyo Naranjo",
+      "Código Postal": "10900",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cotorro",
+      "Código Postal": "14000",
+      "Provincia": "La Habana",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Batabanó",
+      "Código Postal": "33400",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Bejucal",
+      "Código Postal": "32600",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Guines",
+      "Código Postal": "33900",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Jaruco",
+      "Código Postal": "32800",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Madruga",
+      "Código Postal": "33000",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Melena del Sur",
+      "Código Postal": "33300",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Nueva Paz",
+      "Código Postal": "33100",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Quivicán",
+      "Código Postal": "33500",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San José de las Lajas",
+      "Código Postal": "32700",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Nicolás",
+      "Código Postal": "33200",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Santa Cruz del Norte",
+      "Código Postal": "32900",
+      "Provincia": "Mayabeque",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Alquízar",
+      "Código Postal": "33700",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Artemisa",
+      "Código Postal": "33800",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Bahía Honda",
+      "Código Postal": "22600",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Bauta",
+      "Código Postal": "32400",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Caimito",
+      "Código Postal": "32300",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Candelaria",
+      "Código Postal": "22700",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Guanajay",
+      "Código Postal": "32200",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Güira de Melena",
+      "Código Postal": "33600",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Mariel",
+      "Código Postal": "32100",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Antonio de los Baños",
+      "Código Postal": "32500",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Cristóbal",
+      "Código Postal": "22800",
+      "Provincia": "Artemisa",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Matanzas",
+      "Código Postal": "40100",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cárdenas",
+      "Código Postal": "42110",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Varadero",
+      "Código Postal": "42200",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Martí",
+      "Código Postal": "42300",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Colón",
+      "Código Postal": "42400",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Perico",
+      "Código Postal": "42500",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Jovellanos",
+      "Código Postal": "42600",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Pedro Betancourt",
+      "Código Postal": "42700",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Limonar",
+      "Código Postal": "42800",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Unión de Reyes",
+      "Código Postal": "42900",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Ciénaga de Zapata",
+      "Código Postal": "43000",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Jagüey Grande",
+      "Código Postal": "43100",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Calimete",
+      "Código Postal": "43200",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Los Arabos",
+      "Código Postal": "43300",
+      "Provincia": "Matanzas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Aguada de Pasajeros",
+      "Código Postal": "57100",
+      "Provincia": "Cienfuegos",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Rodas",
+      "Código Postal": "57200",
+      "Provincia": "Cienfuegos",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Palmira",
+      "Código Postal": "57300",
+      "Provincia": "Cienfuegos",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Lajas",
+      "Código Postal": "57400",
+      "Provincia": "Cienfuegos",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cruces",
+      "Código Postal": "57500",
+      "Provincia": "Cienfuegos",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cumanayagua",
+      "Código Postal": "57600",
+      "Provincia": "Cienfuegos",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cienfuegos",
+      "Código Postal": "55100",
+      "Provincia": "Cienfuegos",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Abreus",
+      "Código Postal": "57700",
+      "Provincia": "Cienfuegos",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Corralillo",
+      "Código Postal": "52100",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Quemado de Güines",
+      "Código Postal": "52200",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Sagua la Grande",
+      "Código Postal": "53310",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Encrucijada",
+      "Código Postal": "52400",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Camajuaní",
+      "Código Postal": "52500",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Caibarién",
+      "Código Postal": "52610",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Remedios",
+      "Código Postal": "52700",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Placetas",
+      "Código Postal": "52800",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Santa Clara",
+      "Código Postal": "50100",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cifuentes",
+      "Código Postal": "52900",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Santo Domingo",
+      "Código Postal": "53100",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Ranchuelo",
+      "Código Postal": "53100",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Manicaragua",
+      "Código Postal": "53200",
+      "Provincia": "Villa Clara",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cabaiguán",
+      "Código Postal": "62410",
+      "Provincia": "Sancti Spiritus",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Fomento",
+      "Código Postal": "62500",
+      "Provincia": "Sancti Spiritus",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Jatibonico",
+      "Código Postal": "62200",
+      "Provincia": "Sancti Spiritus",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "La Sierpe",
+      "Código Postal": "62700",
+      "Provincia": "Sancti Spiritus",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Sancti Spiritus",
+      "Código Postal": "60100",
+      "Provincia": "Sancti Spiritus",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Taguasco",
+      "Código Postal": "62300",
+      "Provincia": "Sancti Spiritus",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Trinidad",
+      "Código Postal": "62600",
+      "Provincia": "Sancti Spiritus",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Yaguajay",
+      "Código Postal": "62100",
+      "Provincia": "Sancti Spiritus",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Chambas",
+      "Código Postal": "67100",
+      "Provincia": "Ciego de Ávila",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Morón",
+      "Código Postal": "67210",
+      "Provincia": "Ciego de Ávila",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Bolivia",
+      "Código Postal": "67300",
+      "Provincia": "Ciego de Ávila",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Primero de Enero",
+      "Código Postal": "67400",
+      "Provincia": "Ciego de Ávila",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Ciro Redondo",
+      "Código Postal": "67500",
+      "Provincia": "Ciego de Ávila",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Florencia",
+      "Código Postal": "67600",
+      "Provincia": "Ciego de Ávila",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Majagua",
+      "Código Postal": "67700",
+      "Provincia": "Ciego de Ávila",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Ciego de Ávila",
+      "Código Postal": "65100",
+      "Provincia": "Ciego de Ávila",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Venezuela",
+      "Código Postal": "67800",
+      "Provincia": "Ciego de Ávila",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Baraguá",
+      "Código Postal": "67900",
+      "Provincia": "Ciego de Ávila",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Carlos Manuel De Céspedes",
+      "Código Postal": "72100",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Piedrecitas",
+      "Código Postal": "74100",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "República Dominicana",
+      "Código Postal": "74110",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Esmeralda",
+      "Código Postal": "72200",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Brasil",
+      "Código Postal": "74120",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Jiquí",
+      "Código Postal": "74130",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Lombillo",
+      "Código Postal": "74140",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Tabor",
+      "Código Postal": "74150",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Donato",
+      "Código Postal": "74170",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Sierra de Cubitas",
+      "Código Postal": "72300",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Sierra de Cubitas",
+      "Código Postal": "74180",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "La Gloria",
+      "Código Postal": "74190",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Minas",
+      "Código Postal": "72400",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Senado",
+      "Código Postal": "74200",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "La Gabriela",
+      "Código Postal": "74210",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Lugareño",
+      "Código Postal": "74220",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Redención",
+      "Código Postal": "74230",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Nuevitas",
+      "Código Postal": "72510",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Nuevitas 1",
+      "Código Postal": "72510",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Nuevitas 2",
+      "Código Postal": "72520",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Nuevitas 3",
+      "Código Postal": "72530",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Playa Santa Lucía",
+      "Código Postal": "74250",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Puerto Tarafa",
+      "Código Postal": "74260",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Termoeléctrica 10 de Octubre",
+      "Código Postal": "74270",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Guaímaro",
+      "Código Postal": "72600",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Camalote",
+      "Código Postal": "74290",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cascorro",
+      "Código Postal": "74300",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Nuevo Palo Seco",
+      "Código Postal": "74310",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Galbis",
+      "Código Postal": "74320",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Martí",
+      "Código Postal": "74330",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Palo Seco",
+      "Código Postal": "74340",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Santa Lucía",
+      "Código Postal": "74350",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Miguel de Bagá",
+      "Código Postal": "74360",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Sibanicú",
+      "Código Postal": "72700",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Najasa",
+      "Código Postal": "74370",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Hatuey",
+      "Código Postal": "74380",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Siboney",
+      "Código Postal": "74390",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Patricio Lumumba",
+      "Código Postal": "74400",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Camagüey",
+      "Código Postal": "70100",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Altagracia",
+      "Código Postal": "74100",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Florida",
+      "Código Postal": "72810",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Florida 1",
+      "Código Postal": "72810",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Florida 2",
+      "Código Postal": "72820",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Florida 3",
+      "Código Postal": "72830",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Agramonte",
+      "Código Postal": "74420",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "La Vallita",
+      "Código Postal": "74430",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "La Tomatera",
+      "Código Postal": "74440",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Antonio",
+      "Código Postal": "74450",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Vertientes",
+      "Código Postal": "72900",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Aguilar",
+      "Código Postal": "74460",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Los Ángeles",
+      "Código Postal": "74470",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Batalla de las Guásimas",
+      "Código Postal": "74480",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Jimaguayú",
+      "Código Postal": "73000",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Contramaestre",
+      "Código Postal": "74490",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Rescate de Sanguily",
+      "Código Postal": "74500",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Najasa",
+      "Código Postal": "73100",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cuatro Caminos",
+      "Código Postal": "73100",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Santa Cruz del Sur",
+      "Código Postal": "73200",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cándido González",
+      "Código Postal": "74510",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Haití",
+      "Código Postal": "74520",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cuatro Compañeros",
+      "Código Postal": "74530",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Jagua Tres",
+      "Código Postal": "74540",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "La Jagua",
+      "Código Postal": "74680",
+      "Provincia": "Camagüey",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Manatí",
+      "Código Postal": "77100",
+      "Provincia": "Las Tunas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Puerto Padre",
+      "Código Postal": "77200",
+      "Provincia": "Las Tunas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Jesús Menéndez",
+      "Código Postal": "77300",
+      "Provincia": "Las Tunas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Majibacoa",
+      "Código Postal": "77400",
+      "Provincia": "Las Tunas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Las Tunas",
+      "Código Postal": "75100",
+      "Provincia": "Las Tunas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Jobabo",
+      "Código Postal": "77500",
+      "Provincia": "Las Tunas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Colombia",
+      "Código Postal": "77600",
+      "Provincia": "Las Tunas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Amancio",
+      "Código Postal": "77700",
+      "Provincia": "Las Tunas",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Gibara",
+      "Código Postal": "82100",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Velasco",
+      "Código Postal": "84140",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Rafael Freire",
+      "Código Postal": "83300",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Banes",
+      "Código Postal": "82300",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Antilla",
+      "Código Postal": "82400",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Báguanos",
+      "Código Postal": "82500",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Holguín",
+      "Código Postal": "80100",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Calixto García",
+      "Código Postal": "82600",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Buena Ventura",
+      "Código Postal": "82600",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cacocum",
+      "Código Postal": "57200",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Urbano Noris",
+      "Código Postal": "82800",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Germán",
+      "Código Postal": "82800",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cueto",
+      "Código Postal": "82900",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Mayarí",
+      "Código Postal": "83000",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cayo Mambi (C. Frank País)",
+      "Código Postal": "83100",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Sagua de Tánamo",
+      "Código Postal": "83200",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Moa",
+      "Código Postal": "83310",
+      "Provincia": "Holguín",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Río Cauto",
+      "Código Postal": "87100",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Cauto Cristo",
+      "Código Postal": "87200",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Jiguaní",
+      "Código Postal": "87300",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Bayamo",
+      "Código Postal": "85100",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Yara",
+      "Código Postal": "87400",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Manzanillo",
+      "Código Postal": "87510",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Campechuela",
+      "Código Postal": "87600",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Media Luna",
+      "Código Postal": "87700",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Niquero",
+      "Código Postal": "87800",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Pilón",
+      "Código Postal": "87900",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Bartolomé Masó",
+      "Código Postal": "88000",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Buey Arriba",
+      "Código Postal": "88100",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Guisa",
+      "Código Postal": "88200",
+      "Provincia": "Granma",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Contramaestre",
+      "Código Postal": "92100",
+      "Provincia": "Santiago de Cuba",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Mella",
+      "Código Postal": "92200",
+      "Provincia": "Santiago de Cuba",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Luis",
+      "Código Postal": "92300",
+      "Provincia": "Santiago de Cuba",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Segundo Frente",
+      "Código Postal": "92100",
+      "Provincia": "Santiago de Cuba",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Songo La Maya",
+      "Código Postal": "92610",
+      "Provincia": "Santiago de Cuba",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Santiago de Cuba",
+      "Código Postal": "90100",
+      "Provincia": "Santiago de Cuba",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Palma Soriano",
+      "Código Postal": "92610",
+      "Provincia": "Santiago de Cuba",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Tercer Frente",
+      "Código Postal": "92700",
+      "Provincia": "Santiago de Cuba",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Guamá",
+      "Código Postal": "92800",
+      "Provincia": "Santiago de Cuba",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "El Salvador",
+      "Código Postal": "97100",
+      "Provincia": "Guantánamo",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Guantánamo",
+      "Código Postal": "95100",
+      "Provincia": "Guantánamo",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Yateras",
+      "Código Postal": "99420",
+      "Provincia": "Guantánamo",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Baracoa",
+      "Código Postal": "97310",
+      "Provincia": "Guantánamo",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Maisí",
+      "Código Postal": "99320",
+      "Provincia": "Guantánamo",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Imias",
+      "Código Postal": "97500",
+      "Provincia": "Guantánamo",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "San Antonio del Sur",
+      "Código Postal": "97600",
+      "Provincia": "Guantánamo",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Manuel Tames",
+      "Código Postal": "97700",
+      "Provincia": "Guantánamo",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Caimanera",
+      "Código Postal": "97800",
+      "Provincia": "Guantánamo",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Niceto Pérez",
+      "Código Postal": "97900",
+      "Provincia": "Guantánamo",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Isla de la Juventud 1",
+      "Código Postal": "25100",
+      "Provincia": "Isla de la Juventud",
+      "id_pais": 6
+    },
+    {
+      "Municipio": "Isla de la Juventud 1",
+      "Código Postal": "25300",
+      "Provincia": "Isla de la Juventud",
+      "id_pais": 6
+    }
+  ]
+}
